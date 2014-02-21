@@ -1,0 +1,3 @@
+[submodule "jedi-vim"]
+	path = jedi-vim
+	url = ./jedi-vim
