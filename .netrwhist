@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/matchs/projects/tcc'
+let g:netrw_dirhist_2='/home/matchs/projects'
+let g:netrw_dirhist_3='/home/matchs/projects/tcc'
+let g:netrw_dirhist_4='/home/matchs/projects/nocando/src/lib'
+let g:netrw_dirhist_5='/home/matchs/projects/jusbrasil/jusbrasil-webpy/env/src'
+let g:netrw_dirhist_6='/home/matchs/Dropbox/feedback.ranking/monografia_latex_template'
