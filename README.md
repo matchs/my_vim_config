@@ -1,2 +1,2 @@
-My vim plugins and dofiles
+My vim plugins and dotfiles
 =============
